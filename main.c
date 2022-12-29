@@ -5,7 +5,7 @@
 #include <locale.h>
 #include <wchar.h> 		/* Широкие символы */
 #include <sys/time.h>
-#include "extra.h"
+#include "extra/extra.h"
 
 
 WINDOW *window;
