@@ -2092,7 +2092,7 @@ extern NCURSES_EXPORT(const char *) _nc_visbuf (const char *);
 
 extern NCURSES_EXPORT(void) exit_curses (int) GCC_NORETURN;
 
-#include <unctrl.h>
+#include "unctrl.h"
 
 #ifdef __cplusplus
 
