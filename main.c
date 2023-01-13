@@ -1,6 +1,6 @@
 #define _GNU_SOURCE
 #include <stdlib.h>
-#include <curses.h>
+#include "libncurses/curses.h"
 #include <signal.h>
 #include <locale.h>
 #include <wchar.h> 		/* Широкие символы */

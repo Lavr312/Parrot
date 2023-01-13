@@ -1,2 +1,2 @@
 all:
-	gcc main.c -lncursesw -o main
+	gcc main.c -o main
