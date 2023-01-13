@@ -58,7 +58,7 @@
 /*
  * Definitions to facilitate DLL's.
  */
-#include <ncurses_dll.h>
+#include "ncurses_dll.h"
 
 #if 1
 #include <stdint.h>
